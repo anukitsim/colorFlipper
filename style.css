@@ -1,0 +1,23 @@
+body {
+    background-color: #f1f5f8;
+}
+
+.navbar {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16);
+    
+
+
+}
+
+
+
+
+.nav .nav-item .nav-link {
+    color: black;
+
+}
+
+.nav .nav-item .nav-link:hover {
+    color: #7B8FA1;
+}
+
